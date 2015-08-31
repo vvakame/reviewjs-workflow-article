@@ -12,3 +12,7 @@
 == わかめのテスト
 
 Grifletのhook仕込んだはず
+
+=== Griflet hooks
+
+これでビルドされる？
