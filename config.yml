@@ -36,7 +36,7 @@ description:
 # coverfile: カバーページのbody要素内に挿入する内容を記述したファイル名
 coverfile: _cover.html
 # coverimage: 表紙用画像ファイル
-coverimage: cover.png
+# coverimage: cover.png
 # 固有IDに使用するドメイン
 urnid: https://github.com/vvakame/reviewjs-workflow-article
 # CSSファイル (yamlファイルおよびReVIEWファイルを置いたディレクトリにあること
