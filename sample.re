@@ -5,17 +5,6 @@
 
 @<href>{https://vvakame.github.io/reviewjs-workflow/,ここ}からの書き込みだよー
 
-== ひつじのテスト
-
-これで世界征服するのだ！
-
-== ねこのテスト
-
-Grifletのhook仕込んだはず
-
-=== Griflet hooks
-
-これでビルドされる？
 
 ==== ビルドする方法
 
